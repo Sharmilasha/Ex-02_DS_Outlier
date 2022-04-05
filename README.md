@@ -42,8 +42,8 @@ ALGORITHM:
 
 OUTPUT:
 
-![output](./p1.PNG)
-![output](./p2.PNG)
+![output](./https://github.com/Sharmilasha/Ex-02_DS_Outlier/blob/main/p1.png.PNG)
+![output](./.PNG)
 ![output](./p3.PNG)
 ![output](./p4.PNG)
 ![output](./p5.PNG)
